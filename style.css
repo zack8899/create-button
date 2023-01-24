@@ -1,0 +1,11 @@
+button{
+    outline: none;   /*hareeraha waxaa ka dhiga waxba */
+    border: none;
+    border-radius: 4px; /*xoodnaanta uu hareerha ka xoodanyayay */
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+button:hover{
+    background-color:rgb(219, 101, 101) ;
+}
